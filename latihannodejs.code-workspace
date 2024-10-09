@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../latihannodejs"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web-jualan"
+	}
+}
